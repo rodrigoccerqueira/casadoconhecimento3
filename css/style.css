@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html{
+	height: 100%; 
+}
+
+body {
+    height: 100%;
+    padding-top: 54px;
+}
+
+#topo{
+    width: 1120px;
+    height: 375px;
+    margin: 0 auto;
+}
+
+#logo {
+    width: 400px;
+    height: 280px;
+    margin-top: 30px;
+    float: left;
+    margin-left: 350px;
+}
+
+#login {
+    width: 180px;
+    height: 30px;
+    margin-top: 30px;
+    float: right;
+}
+
+div#login p {
+    font-family: Verdana;
+    font-size: 12px;
+    margin: 0 auto;
+}
+
+#midle {
+    margin-top: -50px;
+}
+
+h2 {
+    text-align: center;
+}
